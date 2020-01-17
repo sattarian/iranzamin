@@ -25,3 +25,36 @@ padding-right: 30px;
 #iranzamin {
 	color: dodgerblue;
 }
+
+.navbar {
+	position:fixed;
+	right:0px;
+    top:0px;
+	height: 12vh;
+	max-height: 100px;
+	z-index: 1;
+	width: 100%;
+	box-shadow: 0 3px 3px 0px rgba(0, 0, 0 , 0.2);
+}
+.carousel-inner {
+	height: 88vh;
+	margin-top: 12vh;
+}
+
+.center-header {
+	font-size: 24px;
+	text-align: center;
+	padding-top: 14vh;
+	padding-bottom: 40px;
+}
+
+.center-matn{
+	text-align: center;
+}
+
+.img-thumbnail {
+	margin: 10px;
+}
+html {
+	scroll-behavior: smooth;
+  }
