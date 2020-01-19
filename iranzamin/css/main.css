@@ -51,10 +51,16 @@ padding-right: 30px;
 .center-matn{
 	text-align: center;
 }
+.container{
+	margin: auto;
+}
 
 .img-thumbnail {
 	margin: 10px;
 }
 html {
 	scroll-behavior: smooth;
+  }
+  .padding{
+	  padding: 30px;
   }
