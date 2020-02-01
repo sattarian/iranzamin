@@ -62,5 +62,9 @@ html {
 	scroll-behavior: smooth;
   }
   .padding{
-	  padding: 30px;
+	  margin: 1.5em;
+	  height: 100px;
+	  width: 100px;
   }
+  
+  
